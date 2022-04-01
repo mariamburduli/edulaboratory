@@ -1,0 +1,11 @@
+<svg id="basic_phone" data-name="basic / phone" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="basic_phone_Background_Mask_" data-name="basic / phone (Background/Mask)" width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <rect id="basic_phone_Background_Mask_2" data-name="basic / phone (Background/Mask)" width="24" height="24" fill="none"/>
+  <g id="basic_phone-2" data-name="basic / phone" clip-path="url(#clip-path)">
+    <path id="basic_phone-3" data-name="basic / phone" d="M14.6,19.006h-.028A15.33,15.33,0,0,1,4.3,14.708,15.313,15.313,0,0,1,0,4.441,2,2,0,0,1,.586,3.005L3.3.294a1,1,0,0,1,1.414,0l4,4a1,1,0,0,1,0,1.414L7.118,7.3a7.5,7.5,0,0,0,1.594,2.992A7.485,7.485,0,0,0,11.7,11.887L13.3,10.294a1,1,0,0,1,1.414,0l4,4a1,1,0,0,1,0,1.414L16,18.421A1.976,1.976,0,0,1,14.6,19.006ZM4.005,2.415h0L2,4.419a13.245,13.245,0,0,0,3.712,8.874,13.252,13.252,0,0,0,8.873,3.712L16.592,15l-2.587-2.586-1.293,1.292a.987.987,0,0,1-.7.293,1,1,0,0,1-.209-.022,10.2,10.2,0,0,1-4.5-2.271,10.2,10.2,0,0,1-2.271-4.5A1,1,0,0,1,5.3,6.293L6.592,5,4.005,2.415Z" transform="translate(2.995 2)"/>
+  </g>
+</svg>

@@ -1,0 +1,79 @@
+
+/* Heading */
+
+.layout .heading {
+    display: flex;
+    align-items: center;
+    margin-bottom: 45px;
+}
+.layout .heading .back-arrow {
+    position: relative;
+}
+.layout .heading  .title-box {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.layout .heading  .title-box .yellow-bar {
+    width: 60px;
+    height: 5px;
+    background-color: #FFCA3C;
+    border-radius: 1px;
+    margin-top: 12px;
+}
+.layout .heading  .title-box .title {
+    font-family: 'Helvetica-bold';
+    font-size: 24px;
+    color: #333333;
+}
+/* About-container */
+
+.layout .about-container .body {
+    max-width: 1088px;
+    width: 100%;
+    height: max-content;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 20px;
+}
+.layout .about-container .body .image-box{
+background-image:linear-gradient(
+    rgba(253, 219, 112, 0.3) 0%,
+    rgba(0, 0, 0, 0.29) 82%,
+    rgba(0, 0, 0, 0.11) 100%
+  ), url(../assets/images/about-girl.png);
+  width: 1088px;
+  height: 412px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  border-radius: 20px;
+}
+.layout .about-container .body .text-box {
+    padding: 26px;
+}
+.layout .about-container .body .text-box h1 {
+    font-family: 'Helvetica-medium';
+    font-size: 26px;
+    color: #363535;
+    margin-bottom: 26px;
+}
+.layout .about-container .body .text-box p {
+    font-family: 'Helvetica-regular';
+    font-size: 16px;
+    color: #555454;
+    line-height: 30px;
+}
+.layout .about-container .share .box {
+    margin-top: 26px;
+    display: flex;
+    margin-left: 30px;
+}
+.layout .about-container .share .box p {
+    font-family: 'Helvetica-regular';
+    font-size: 14px;
+    color: #555454;
+    margin-right: 12px;
+}
+.layout .about-container .share .box img {
+    margin-right: 8px;
+}

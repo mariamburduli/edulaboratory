@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="9" height="6" viewBox="0 0 9 6">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Icon" d="M1.142,0,0,1.057,3.709,4.5,0,7.943,1.142,9,6,4.5Z" fill="#333"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_158" data-name="Mask Group 158" transform="translate(9) rotate(90)" clip-path="url(#clip-path)">
+    <rect id="_Color" data-name="↳ 🎨 Color" width="19.433" height="18" transform="translate(-6.725 -4.5)" fill="#333"/>
+  </g>
+</svg>
